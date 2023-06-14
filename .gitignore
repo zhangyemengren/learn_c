@@ -1,0 +1,26 @@
+# Compiled object files
+**/*.o
+
+# Executables
+**/*.exe
+**/*.out
+
+# Libraries
+**/*.a
+**/*.lib
+
+# IDE-specific files and folders
+.vscode/
+.idea
+
+# Build generated files
+**/build/
+
+# Dependency files
+**/dependencies/
+
+# macOS specific files
+**/.DS_Store
+
+# Windows specific files
+**/Thumbs.db
