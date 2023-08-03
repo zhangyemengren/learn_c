@@ -24,3 +24,5 @@
 
 # Windows specific files
 **/Thumbs.db
+
+**/cmake-build-debug/
